@@ -8,9 +8,12 @@ Projeto desenvolvido durante o Módulo 03 do curso de HTML5 e CSS3 do Curso em V
 - Estilizar textos com contraste e fontes personalizadas
 - Praticar organização e hospedagem de arquivos via GitHub Pages
 
+##  O que aprendi
+- Criar um layout completo e estilizado com HTML e CSS
+- Trabalhar com fontes externas e contraste de cores para acessibilidade
+- Publicar um site gratuitamente com GitHub Pages
+- Estruturar e organizar arquivos de projeto de forma eficiente
+
 ## Tecnologias
 - HTML5
 - CSS3
-
-## Publicação
-O site foi publicado gratuitamente usando **GitHub Pages**.
